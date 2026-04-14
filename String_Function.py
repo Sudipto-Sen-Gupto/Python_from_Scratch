@@ -18,7 +18,7 @@ print(countLetter)
 
 #capitalize
 constitution="the first constitution name in the world is MegnaCarta."
-capitalized=constitution.capitalize();
+capitalized=constitution.capitalize()
 print(capitalized)
 
 #find()
