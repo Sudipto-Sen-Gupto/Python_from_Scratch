@@ -16,3 +16,4 @@ print(type(emptySet))
 #so we can use set function for define empty set
 newEmptySet=set({})
 print(type(newEmptySet))
+
